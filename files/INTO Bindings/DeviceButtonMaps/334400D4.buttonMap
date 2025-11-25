@@ -1,0 +1,59 @@
+<!-- VPC WarBRD Constellation Alpha Prime (R)-->
+<Root>
+	<Joy_RXAxis>POV Hat X</Joy_RXAxis>
+	<Joy_RYAxis>POV Hat Y</Joy_RYAxis>
+	<Joy_RZAxis>Stick RZAxis</Joy_RZAxis>
+	<Joy_UAxis>Pinky Axis</Joy_UAxis>
+	<Joy_VAxis>unused vaxis</Joy_VAxis>
+	<Joy_XAxis>[x52x]</Joy_XAxis>
+	<Joy_YAxis>[x52y]</Joy_YAxis>
+	<Joy_ZAxis>[x52rz]</Joy_ZAxis>
+	<Joy_POV1Up>unused pvo1up</Joy_POV1Up>
+	<Joy_POV1Right>unused pvo1right</Joy_POV1Right>
+	<Joy_POV1Down>unused pvo1down</Joy_POV1Down>
+	<Joy_POV1Left>unused pvo1left</Joy_POV1Left>
+	<Joy_POV2Up>unused pvo2up</Joy_POV2Up>
+	<Joy_POV2Right>unused pvo2right</Joy_POV2Right>
+	<Joy_POV2Down>unused pvo2down</Joy_POV2Down>
+	<Joy_POV2Left>unused pvo2left</Joy_POV2Left>
+	<Joy_POV3Up>unused pvo3up</Joy_POV3Up>
+	<Joy_POV3Right>unused pvo3right</Joy_POV3Right>
+	<Joy_POV3Down>unused pvo3down</Joy_POV3Down>
+	<Joy_POV3Left>unused pvo1left</Joy_POV3Left>
+	<Joy_POV4Up>unused pvo4up</Joy_POV4Up>
+	<Joy_POV4Right>unused pvo4right</Joy_POV4Right>
+	<Joy_POV4Down>unused pvo4down</Joy_POV4Down>
+	<Joy_POV4Left>unused pvo4left</Joy_POV4Left>
+	<Joy_1>Trigger Lever In</Joy_1>
+	<Joy_2>Trigger Lever Hold</Joy_2>
+	<Joy_3>Trigger Lever Squeeze</Joy_3>
+	<Joy_4>Trigger 1</Joy_4>
+	<Joy_5>Trigger 2</Joy_5>
+	<Joy_6>Stick 6</Joy_6>
+	<Joy_7>[x52b3]</Joy_7>
+	<Joy_8>unused joy 8</Joy_8>
+	<Joy_9>[x52prob20]</Joy_9>
+	<Joy_10>[x52prob23]</Joy_10>
+	<Joy_11>[x52prob22]</Joy_11>
+	<Joy_12>[x52prob21]</Joy_12>
+	<Joy_13>[x52b4]</Joy_13>
+	<Joy_14>unused joy 14</Joy_14>
+	<Joy_15>[x52b20]</Joy_15>
+	<Joy_16>[x52b23]</Joy_16>
+	<Joy_17>[x52b22]</Joy_17>
+	<Joy_18>[x52b21]</Joy_18>
+	<Joy_19>[x52prob19]</Joy_19>
+	<Joy_20>unused joy 20</Joy_20>
+	<Joy_21>Wheel Up</Joy_21>
+	<Joy_22>Wheel Down</Joy_22>
+	<Joy_23>Thumb Press</Joy_23>
+	<Joy_24>[x52prob24]</Joy_24>
+	<Joy_25>[x52prob27]</Joy_25>
+	<Joy_26>[x52prob26]</Joy_26>
+	<Joy_27>[x52prob25]</Joy_27>
+	<Joy_28>[ps4RThumb]</Joy_28>
+	<Joy_29>[ps4RThumbU]</Joy_29>
+	<Joy_30>[ps4RThumbD]</Joy_30>
+	<Joy_31>Pinky Button</Joy_31>
+	<Joy_32>Pinky Lever</Joy_32>
+</Root>
