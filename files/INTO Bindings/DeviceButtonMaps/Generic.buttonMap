@@ -8,6 +8,22 @@
 	<Joy_XAxis>Stick XAxis</Joy_XAxis>
 	<Joy_YAxis>Stick YAxis</Joy_YAxis>
 	<Joy_ZAxis>Stick ZAxis</Joy_ZAxis>
+	<Pos_Joy_RXAxis>Stick RXAxis+</Pos_Joy_RXAxis>
+	<Pos_Joy_RYAxis>Stick RYAxis+</Pos_Joy_RYAxis>
+	<Pos_Joy_RZAxis>Stick RZAxis+</Pos_Joy_RZAxis>
+	<Pos_Joy_UAxis>Stick UAxis+</Pos_Joy_UAxis>
+	<Pos_Joy_VAxis>Stick VAxis+</Pos_Joy_VAxis>
+	<Pos_Joy_XAxis>Stick XAxis+</Pos_Joy_XAxis>
+	<Pos_Joy_YAxis>Stick YAxis+</Pos_Joy_YAxis>
+	<Pos_Joy_ZAxis>Stick ZAxis+</Pos_Joy_ZAxis>
+	<Neg_Joy_RXAxis>Stick RXAxis-</Neg_Joy_RXAxis>
+	<Neg_Joy_RYAxis>Stick RYAxis-</Neg_Joy_RYAxis>
+	<Neg_Joy_RZAxis>Stick RZAxis-</Neg_Joy_RZAxis>
+	<Neg_Joy_UAxis>Stick UAxis-</Neg_Joy_UAxis>
+	<Neg_Joy_VAxis>Stick VAxis-</Neg_Joy_VAxis>
+	<Neg_Joy_XAxis>Stick XAxis-</Neg_Joy_XAxis>
+	<Neg_Joy_YAxis>Stick YAxis-</Neg_Joy_YAxis>
+	<Neg_Joy_ZAxis>Stick ZAxis-</Neg_Joy_ZAxis>
 	<Joy_POV1Up>Stick POV1Up</Joy_POV1Up>
 	<Joy_POV1Right>Stick POV1Right</Joy_POV1Right>
 	<Joy_POV1Down>Stick POV1Down</Joy_POV1Down>
