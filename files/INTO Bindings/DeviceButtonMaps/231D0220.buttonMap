@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	VKB Gladiator NXT EVO SCG Premium (right hand) + GNX FSM-GA module [VendorID: 231D, ProductID: 0220]
+
+	This is based on the awesome work already done 231D0200.buttonMap (thx) but corrected for changed
+	introduced by FSM-GA module. I've tried to adhere to notation used on the official binding templates
+	from VKB which can be found here https://www.vkbcontrollers.com/pages/downloads
+
+	Note that productID changes depending on which modules are connected to the GNX (base) bus.
+	This means that your bindings may break if you add or remove modules to your VKB setup.
+	SCG seems to become a part of the GNX it self and does not function as a separate module.
+ -->
+<Root>
+	<!-- SCG Premium -->
+	<Joy_RXAxis>SCGR THUMBSTICK X</Joy_RXAxis>
+	<Joy_RYAxis>SCGR THUMBSTICK Y</Joy_RYAxis>
+	<Joy_RZAxis>SCGR [x52prorz]</Joy_RZAxis>
+	<Joy_UAxis>SCGR UAxis</Joy_UAxis>
+	<Joy_VAxis>SCGR VAxis</Joy_VAxis>
+	<Joy_XAxis>SCGR [x52prox]</Joy_XAxis>
+	<Joy_YAxis>SCGR [x52proy]</Joy_YAxis>	
+	<Joy_POV1Up>SCGR A1 [ps4PadU]</Joy_POV1Up>
+	<Joy_POV1Right>SCGR A1 [ps4PadR]</Joy_POV1Right>
+	<Joy_POV1Down>SCGR A1 [ps4PadD]</Joy_POV1Down>
+	<Joy_POV1Left>SCGR A1 [ps4PadL]</Joy_POV1Left>
+	<Joy_POV2Up>SCGR A4 [ps4PadU]</Joy_POV2Up>
+	<Joy_POV2Right>SCGR A4 [ps4PadR]</Joy_POV2Right>
+	<Joy_POV2Down>SCGR A4 [ps4PadD]</Joy_POV2Down>
+	<Joy_POV2Left>SCGR A4 [ps4PadL]</Joy_POV2Left>
+	<Joy_POV3Up>SCGR A3 [ps4PadU]</Joy_POV3Up>
+	<Joy_POV3Right>SCGR A3 [ps4PadR]</Joy_POV3Right>
+	<Joy_POV3Down>SCGR A3 [ps4PadD]</Joy_POV3Down>
+	<Joy_POV3Left>SCGR A3 [ps4PadL]</Joy_POV3Left>
+	<Joy_POV4Up>SCGR C1 [ps4PadU]</Joy_POV4Up>
+	<Joy_POV4Right>SCGR C1 [ps4PadR]</Joy_POV4Right>
+	<Joy_POV4Down>SCGR C1 [ps4PadD]</Joy_POV4Down>
+	<Joy_POV4Left>SCGR C1 [ps4PadL]</Joy_POV4Left>
+	<Joy_1>SCGR FIRE 1</Joy_1>
+	<Joy_2>SCGR FIRE 2</Joy_2>
+	<Joy_3>SCGR A2 (thumb red)</Joy_3>
+	<Joy_4>SCGR B1 (right side)</Joy_4>
+	<Joy_5>SCGR D1 (pinky)</Joy_5>
+	<Joy_6>SCGR A3 [ps4PadU]</Joy_6>
+	<Joy_7>SCGR A3 [ps4PadR]</Joy_7>
+	<Joy_8>SCGR A3 [ps4PadD]</Joy_8>
+	<Joy_9>SCGR A3 [ps4PadL]</Joy_9>
+	<Joy_10>SCGR A3 (push)</Joy_10>
+	<Joy_11>SCGR A4 [ps4PadU]</Joy_11>
+	<Joy_12>SCGR A4 [ps4PadR]</Joy_12>
+	<Joy_13>SCGR A4 [ps4PadD]</Joy_13>
+	<Joy_14>SCGR A4 [ps4PadL]</Joy_14>
+	<Joy_15>SCGR A4 (push)</Joy_15>
+	<Joy_16>SCGR C1 [ps4PadU]</Joy_16>
+	<Joy_17>SCGR C1 [ps4PadR]</Joy_17>
+	<Joy_18>SCGR C1 [ps4PadD]</Joy_18>
+	<Joy_19>SCGR C1 [ps4PadL]</Joy_19>
+	<Joy_20>SCGR C1 PUSH</Joy_20>
+	<Joy_21>SCGR RAPIDFIRE PUSH</Joy_21>
+	<Joy_22>SCGR RAPIDFIRE PULL</Joy_22>
+	
+	<!-- GNX (base) -->
+	<Joy_23>SCGR En1 [ps4PadU]</Joy_23>
+	<Joy_24>SCGR En1 [ps4PadD]</Joy_24>
+	<Joy_25>SCGR En2 [ps4PadU]</Joy_25>
+	<Joy_26>SCGR En2 [ps4PadD]</Joy_26>
+	<Joy_27>SCGR F1</Joy_27>
+	<Joy_28>SCGR F2</Joy_28>
+	<Joy_29>SCGR F3</Joy_29>
+	<Joy_ZAxis>SCGR THROTTLE</Joy_ZAxis>	
+
+	<!-- FSM-GA -->
+	<Joy_41>FSM HDG</Joy_41>
+	<Joy_42>FSM TRK</Joy_42>
+	<Joy_43>FSM NAV</Joy_43>
+	<Joy_44>FSM APR</Joy_44>
+	<Joy_45>FSM ALT</Joy_45>
+	<Joy_46>FSM LVL</Joy_46>
+	<Joy_47>FSM VNAV</Joy_47>
+	<Joy_48>FSM IAS</Joy_48>
+	<Joy_49>FSM AP</Joy_49>
+	<Joy_50>FSM FD</Joy_50>
+
+	<Joy_51>FSM YD</Joy_51>
+	<Joy_52>FSM VS</Joy_52>
+	<Joy_53>FSM AVIONIC</Joy_53>
+	<Joy_54>FSM LANDING LIGHTS</Joy_54>
+	<Joy_55>FSM STROBE</Joy_55>
+	<Joy_56>FSM NAV LIGHTS</Joy_56>
+	<Joy_57>FSM HDG/TRK CCW</Joy_57>
+	<Joy_58>FSM HDG/TRK CW</Joy_58>
+	<Joy_59>FSM ALT SEL CCW</Joy_59>
+	<Joy_60>FSM ALT SEL CW</Joy_60>
+	<Joy_61>FSM VS DN [ps4PadU]</Joy_61>
+	<Joy_62>FSM VS UP [ps4PadD]</Joy_62>
+	<Joy_63>FSM HDG/TRK PUSH</Joy_63>
+	<Joy_64>FSM ALT SEL PUSH</Joy_64>
+</Root>
