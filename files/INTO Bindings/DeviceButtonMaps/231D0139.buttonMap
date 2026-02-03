@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+	VKB Stecs STG Max (left hand) [VendorID: 231D, ProductID: 0139]
+
+	I've tried to adhere to notation used on the official binding templates from VKB which
+	can be found here https://www.vkbcontrollers.com/pages/downloads
+
+	Note that productID changes depending on which modules are connected to the STECS bus.
+	This means that your bindings may break if you add or remove modules to your VKB setup.
+	ATEM seems to become a part of the STECS it self and does no function as a separate module
+	unlike the STEM module.
+-->
+<Root>
+	<!-- STECS (Base) -->
+	<Joy_1>STGL SYS</Joy_1>
+	<Joy_2>STGL START</Joy_2>
+	<Joy_3>STGL MODE 1</Joy_3>
+	<Joy_4>STGL MODE 2</Joy_4>
+	<Joy_5>STGL MODE 3</Joy_5>
+	<Joy_6>STGL MODE 4</Joy_6>
+	<Joy_7>STGL MODE 5</Joy_7>
+	<Joy_XAxis>STGL [x52prox]</Joy_XAxis>
+	<Joy_YAxis>STGL [x52proy]</Joy_YAxis>
+	<Joy_ZAxis>STGL [x52z]</Joy_ZAxis>
+	
+	<!-- STG Left hand -->
+	<Joy_21>STGL B1</Joy_21>
+	<Joy_22>STGL TRIGGER</Joy_22>
+	<Joy_23>STGL B2</Joy_23>
+	<Joy_24>STGL SPEED LIM PUSH</Joy_24>
+	<Joy_25>STGL SPEED LIM UP</Joy_25>
+	<Joy_26>STGL SPEED LIM DOWN</Joy_26>
+	<Joy_27>STGL POINTER PUSH</Joy_27>
+	<Joy_28>STGL HAT1 PUSH</Joy_28>
+	<Joy_29>STGL POINTER [ps4PadU]</Joy_29>
+	<Joy_30>STGL POINTER [ps4PadD]</Joy_30>
+	<Joy_31>STGL POINTER [ps4PadL]</Joy_31>
+	<Joy_32>STGL POINTER [ps4PadR]</Joy_32>
+	<Joy_33>STGL HAT1 BACK</Joy_33>
+	<Joy_34>STGL HAT1 FORE</Joy_34>
+	<Joy_35>STGL HAT1 DOWN</Joy_35>
+	<Joy_36>STGL HAT1 UP</Joy_36>
+	<Joy_37>STGL H1 DOWN</Joy_37>
+	<Joy_38>STGL H1 Up</Joy_38>
+	<Joy_39>STGL H1 PUSH</Joy_39>
+	<Joy_40>STGL H2 BACK</Joy_40>
+	<Joy_41>STGL H2 FORE</Joy_41>
+	<Joy_42>STGL H2 PUSH</Joy_42>
+	<Joy_RXAxis>STGL BRAKE</Joy_RXAxis>
+	<Joy_RYAxis>STGL LASER [x52prob19]</Joy_RYAxis>
+	
+	<!-- ATEM -->
+	<Joy_8>ATEM MSE CCW</Joy_8>
+	<Joy_9>ATEM MSE CW</Joy_9>
+	<Joy_10>ATEM SAFE</Joy_10>
+	<Joy_11>ATEM 1</Joy_11>
+	<Joy_12>ATEM 2</Joy_12>
+	<Joy_13>ATEM 3</Joy_13>
+	<Joy_14>ATEM 4</Joy_14>
+	<Joy_15>ATEM ARMED</Joy_15>
+	<Joy_16>ATEM MSE [ps4PadU]</Joy_16>
+	<Joy_17>ATEM MSE [ps4PadD]</Joy_17>
+	<Joy_18>ATEM MSE [ps4PadR]</Joy_18>
+	<Joy_19>ATEM MSE [ps4PadL]</Joy_19>
+	<Joy_20>ATEM MSE PUSH</Joy_20>
+	
+	<!-- STEM -->
+	<Joy_43>STEM A1</Joy_43>
+	<Joy_44>STEM A2</Joy_44>
+	<Joy_45>STEM C1</Joy_45>
+	<Joy_46>STEM B1</Joy_46>
+	<Joy_47>STEM B2</Joy_47>
+	<Joy_48>STEM B3</Joy_48>
+	<Joy_49>STEM B4</Joy_49>
+	<Joy_50>STEM B5</Joy_50>
+	<Joy_51>STEM SW1 UP</Joy_51>
+	<Joy_52>STEM SW1 PUSH</Joy_52>
+	<Joy_53>STEM SW1 DOWN</Joy_53>
+	<Joy_54>STEM SW2 UP</Joy_54>
+	<Joy_55>STEM SW2 PUSH</Joy_55>
+	<Joy_56>STEM SW2 DOWN</Joy_56>
+	<Joy_57>STEM TGL UP</Joy_57>
+	<Joy_58>STEM TGL DOWN</Joy_58>
+	<Joy_59>STEM EN1 CCW</Joy_59>
+	<Joy_60>STEM EN1 CW</Joy_60>
+	<Joy_61>STEM EN2 CCW</Joy_61>
+	<Joy_62>STEM EN2 CW</Joy_62>
+	<Joy_63>STEM EN1 PUSH</Joy_63>
+	<Joy_64>STEM EN2 PUSH</Joy_64>
+	<Joy_65>STEM LEVER UP</Joy_65>
+	<Joy_66>STEM LEVER DOWN</Joy_66>
+	<!-- TODO add STEM LEVER as analog axis -->
+</Root>

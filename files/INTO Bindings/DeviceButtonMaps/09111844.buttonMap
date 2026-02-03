@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+	Footcontrol USB [VendorID: 0911, ProductID: 1844]
+
+	This is generic 3 button footcontrol I had lying around. These are typically is used for dictation works, 
+	but now I finally found good use for it with Elite Dangerous; currently using it for FA toggle
+	and cargo scoop; had the third button bound to silent running at one time, but I did misclick a couple of times
+	with not to good result, ie. its not good to disable shields during combat :D
+ -->
+<Root>
+	<Joy_1>FOOT LEFT</Joy_1>
+	<Joy_2>FOOT RIGHT</Joy_2>
+	<Joy_3>FOOT MIDDLE</Joy_3>
+</Root>
