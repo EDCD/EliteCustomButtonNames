@@ -32,11 +32,28 @@ Inside you will find a folder called `DeviceButtonMaps` and in it is a `Readme.t
 
 Instead you want to go to your Bindings folder, which is at `%LocalAppData%\Frontier Developments\Elite Dangerous\Options\Bindings`. If you have been playing for any length of time you probably know the importance of keeping a backup of this folder. In this Git repo, go to `.\files\INTO Bindings` and copy the `DeviceButtonMaps` folder from there to your own Bindings folder. That's it, all done. 
 
-At the time of writing I include:
-
-- `Generic.buttonMap`, to act as a starting point for your own customization - it has every button and axis defined
-- `T16000MTHROTTLE.buttonMap` for the Thrustmaster TWCS throttle
-- `231D0200.buttonMap`for the VKB Gladiator NXT Premium Right stick
+At the time of writing the folder includes `Generic.buttonMap`, which has every button and axis defined, so as to act as a starting point for your own customization, plus complete button maps for the following devices (in alphabetical order):
+- Footcontrol USB
+- Thrustmaster TWCS
+- TurtleBeach VelocityOne FlightStick
+- VKB Gladiator NXT EVO Space Combat Grip Premium (Left)
+- VKB Gladiator NXT Premium Right
+- VKB Gladiator NXT EVO Space Combat Grip Premium (Left)
+- VKB Gladiator NXT EVO Space Combat Grip Premium (Right)
+- VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Left)
+- VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Right)
+- VKB Gladiator NXT EVO Space Combat Grip Premium (Right) + GNX FSM-GA module
+- VKB STECS Modern Throttle System Standard
+- VKB STECS Regular Throttle System Mini Plus (Left)
+- VKB STECS Space Throttle Grip Max (Left)
+- VKB STECS Space Throttle Grip Mini (Left)
+- VKB STECS Space Throttle Grip Mini (Right)
+- VKB STECS Space Throttle Grip Mini Plus (Left)
+- VKB STECS Space Throttle Grip Mini Plus (Right)
+- VKB STECS Space Throttle Grip Standard (Left)
+- VKB STECS Space Throttle Grip Standard (Right)
+- VPC Throttle MT-50CM3 (Left)
+- VPC WarBRD Constellation Alpha Prime (Right)
 
 As Frontier's readme notes, you can edit and save these button maps while the game is running to experiment with how different names and icons look. Just go into Options -> Controls and the game will re-read them.
 
