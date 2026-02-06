@@ -67,6 +67,8 @@ Open the file and edit the names and icons as you wish. You can refer to the `Re
 
 Update: CMDR NutBall has very kindly compiled a preview sheet of all the available icons [here](https://cmdr-nutball.github.io/Elite-Dangerous-buttonmap-Icons/).
 
+We very much welcome contributions extending our device coverage. A GitHub pull request is the simplest way.
+
 ## Troubleshooting
 Elite Dangerous expects valid XML in the buttonMap files, and will reject buttonMaps that do not fully parse without any error messages. If you have any trouble it is recommended that you run your file through a visual XML parser, such as [this one](https://jsonformatter.org/xml-parser), to check for issues.
 
