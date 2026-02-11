@@ -33,7 +33,9 @@ Inside you will find a folder called `DeviceButtonMaps` and in it is a `Readme.t
 Instead you want to go to your Bindings folder, which is at `%LocalAppData%\Frontier Developments\Elite Dangerous\Options\Bindings`. If you have been playing for any length of time you probably know the importance of keeping a backup of this folder. In this Git repo, go to `.\files\INTO Bindings` and copy the `DeviceButtonMaps` folder from there to your own Bindings folder. That's it, all done. 
 
 At the time of writing the folder includes `Generic.buttonMap`, which has every button and axis defined, so as to act as a starting point for your own customization, plus complete button maps for the following devices (in alphabetical order):
+- CH Products Pro Throttle USB
 - Footcontrol USB
+- Thrustmaster T.16000M
 - Thrustmaster TWCS
 - TurtleBeach VelocityOne FlightStick
 - VKB Gladiator NXT EVO Space Combat Grip Premium (Left)

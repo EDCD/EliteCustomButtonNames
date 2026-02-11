@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Thrustmaster T.16000M joystick
+Friendly name: T16000M
+USB VID:044F PID:B10A
+-->
+<Root>
+    <Joy_1>T16000M trigger</Joy_1>
+    <Joy_2>T16000M rear trigger</Joy_2>
+    <Joy_3>T16000M left trigger</Joy_3>
+    <Joy_4>T16000M right trigger</Joy_4>
+	<Joy_5>T16000M left buttons 1</Joy_5>
+    <Joy_6>T16000M left buttons 2</Joy_6>
+    <Joy_7>T16000M left buttons 3</Joy_7>
+    <Joy_8>T16000M left buttons 6</Joy_8>
+    <Joy_9>T16000M left buttons 5</Joy_9>
+    <Joy_10>T16000M left buttons 4</Joy_10>
+    <Joy_11>T16000M right buttons 3</Joy_11>
+    <Joy_12>T16000M right buttons 2</Joy_12>
+    <Joy_13>T16000M right buttons 1</Joy_13>
+    <Joy_14>T16000M right buttons 4</Joy_14>
+    <Joy_15>T16000M right buttons 5</Joy_15>
+    <Joy_16>T16000M right buttons 6</Joy_16>
+    <Joy_POV1Up>T16000M [x52prop1u]</Joy_POV1Up>
+    <Joy_POV1Right>T16000M [x52prop1r]</Joy_POV1Right>
+    <Joy_POV1Down>T16000M [x52prop1d]</Joy_POV1Down>
+    <Joy_POV1Left>T16000M [x52prop1l]</Joy_POV1Left>
+    <Joy_UAxis>T16000M [x52prou]</Joy_UAxis>
+    <Joy_XAxis>T16000M [x52prox]</Joy_XAxis>
+    <Joy_YAxis>T16000M [x52proy]</Joy_YAxis>
+    <Joy_RZAxis>T16000M [x52prorz]</Joy_RZAxis>
+</Root>
