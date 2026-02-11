@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+CH Products Pro Throttle USB
+Friendly name: CHProThrottle1
+USB VID:068E PID:00F1
+-->
+
+<Root>
+    <Joy_1>CH Throttle - Castle right</Joy_1>
+    <Joy_2>CH Throttle - Castle down</Joy_2>
+    <Joy_3>CH Throttle - Castle left</Joy_3>
+    <Joy_4>CH Throttle - Castle up</Joy_4>
+    <Joy_5>CH Throttle - Saddle right</Joy_5>
+    <Joy_6>CH Throttle - Saddle down</Joy_6>
+    <Joy_7>CH Throttle - Saddle left</Joy_7>
+    <Joy_8>CH Throttle - Saddle up</Joy_8>
+    <Joy_9>CH Throttle - Cross down</Joy_9>
+    <Joy_10>CH Throttle - Cross right</Joy_10>
+    <Joy_11>CH Throttle - Cross up</Joy_11>
+    <Joy_12>CH Throttle - Cross left</Joy_12>
+    <Joy_14>CH Throttle - Right button</Joy_14>
+    <Joy_15>CH Throttle - Center button</Joy_15>
+    <Joy_16>CH Throttle - Left button</Joy_16>
+    <Joy_POV1Right>CH Throttle - Cone right</Joy_POV1Right>
+    <Joy_POV1Down>CH Throttle - Cone down</Joy_POV1Down>
+    <Joy_POV1Left>CH Throttle - Cone left</Joy_POV1Left>
+    <Joy_POV1Up>CH Throttle - Cone up</Joy_POV1Up>
+    <Joy_XAxis>CH Throttle - Mini stick horizontal</Joy_XAxis>
+    <Joy_YAxis>CH Throttle - Mini stick vertical</Joy_YAxis>
+    <Joy_ZAxis>CH Throttle [hts4ThrottleY]</Joy_ZAxis>
+</Root>
