@@ -1,36 +1,34 @@
 <!-- VKB Gunfighter Space Combat Grip Premium (Right) -->
 <Root>
+	<Joy_RXAxis>SCG Thumbstick X</Joy_RXAxis>
+	<Joy_RYAxis>SCG Thumbstick Y</Joy_RYAxis>
+	<Joy_RZAxis>SCG [x52prorz]</Joy_RZAxis>
 	<Joy_XAxis>SCG [x52prox]</Joy_XAxis>
-	<Joy_ZAxis>SCG [x52prorz]</Joy_ZAxis>
 	<Joy_YAxis>SCG [x52proy]</Joy_YAxis>
-	<Neg_Joy_RXAxis>A1 ALT Right</Neg_Joy_RXAxis>
-	<Pos_Joy_RXAxis>A1 ALT Right</Pos_Joy_RXAxis>
-	<Pos_Joy_RYAxis>A1 ALT Up</Pos_Joy_RYAxis>
-	<Neg_Joy_RYAxis>A1 ALT Down</Neg_Joy_RYAxis>
-	<Joy_POV1Up>SCG A1 Up</Joy_POV1Up>
-	<Joy_POV1Right>SCG A1 Right</Joy_POV1Right>
-	<Joy_POV1Down>SCG A1 Down</Joy_POV1Down>
-	<Joy_POV1Left>SCG A1 Left</Joy_POV1Left>
-	<Joy_1>SCG Trigger</Joy_1>
-	<Joy_2>SCG Trigger Full Press</Joy_2>
-	<Joy_3>SCG A2</Joy_3>
-	<Joy_4>SCG B1</Joy_4>
-	<Joy_5>SCG D1 Pinkie</Joy_5>
-	<Joy_6>SCG A4 Up</Joy_6>
-	<Joy_7>SCG A4 Right</Joy_7>
-	<Joy_8>SCG A4 Down</Joy_8>
-	<Joy_9>SCG A4 Left</Joy_9>
-	<Joy_10>SCG A4 Press</Joy_10>
-	<Joy_11>SCG A3 Up</Joy_11>
-	<Joy_12>SCG A3 Right</Joy_12>
-	<Joy_13>SCG A3 Down</Joy_13>
-	<Joy_14>SCG A3 Left</Joy_14>
-	<Joy_15>SCG A3 Press</Joy_15>
-	<Joy_21>C1 Up</Joy_21>
-	<Joy_22>C1 Right</Joy_22>
-	<Joy_23>C1 Down</Joy_23>
-	<Joy_24>C1 Left</Joy_24>
-	<Joy_25>C1 Press</Joy_25>
-	<Joy_26>Secondary Trigger Push</Joy_26>
-	<Joy_27>Secondary Trigger Pull</Joy_27>
+	<Joy_POV1Up>SCG A1 [ps4PadU]</Joy_POV1[ps4PadU]>
+	<Joy_POV1[ps4PadR]>SCG A1 [ps4PadR]</Joy_POV1[ps4PadR]>
+	<Joy_POV1[ps4PadD]>SCG A1 [ps4PadD]</Joy_POV1[ps4PadD]>
+	<Joy_POV1[ps4PadL]>SCG A1 [ps4PadL]</Joy_POV1[ps4PadL]>
+	<Joy_1>SCG Fire 1</Joy_1>
+	<Joy_2>SCG Fire 2</Joy_2>
+	<Joy_3>SCG A2 (thumb red)</Joy_3>
+	<Joy_4>SCG B1 (right side)</Joy_4>
+	<Joy_5>SCG D1 (pinky)</Joy_5>
+	<Joy_6>SCG A4 [ps4PadU]</Joy_6>
+	<Joy_7>SCG A4 [ps4PadR]</Joy_7>
+	<Joy_8>SCG A4 [ps4PadD]</Joy_8>
+	<Joy_9>SCG A4 [ps4PadL]</Joy_9>
+	<Joy_10>SCG A4 Click</Joy_10>
+	<Joy_11>SCG A3 [ps4PadU]</Joy_11>
+	<Joy_12>SCG A3 [ps4PadR]</Joy_12>
+	<Joy_13>SCG A3 [ps4PadD]</Joy_13>
+	<Joy_14>SCG A3 [ps4PadL]</Joy_14>
+	<Joy_15>SCG A3 Click</Joy_15>
+	<Joy_21>SCG C1 [ps4PadU]</Joy_21>
+	<Joy_22>SCG C1 [ps4PadR]</Joy_22>
+	<Joy_23>SCG C1 [ps4PadD]</Joy_23>
+	<Joy_24>SCG C1 [ps4PadL]</Joy_24>
+	<Joy_25>SCG C1 Click</Joy_25>
+	<Joy_26>SCG Push Brake</Joy_26>
+	<Joy_27>SCG Pull Brake</Joy_27>
 </Root>
