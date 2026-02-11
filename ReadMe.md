@@ -45,6 +45,7 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 - VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Left)
 - VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Right)
 - VKB Gladiator NXT EVO Space Combat Grip Premium (Right) + GNX FSM-GA module
+- VKB Gunfighter Space Combat Grip Premium (Right)
 - VKB STECS Modern Throttle System Standard
 - VKB STECS Regular Throttle System Mini Plus (Left)
 - VKB STECS Space Throttle Grip Max (Left)
