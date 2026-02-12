@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Sony DualSense Edge -->
+<Root>
+  <Joy_1>[ps4Square]</Joy_1>
+  <Joy_2>[ps4Cross]</Joy_2>
+  <Joy_3>[ps4Circle]</Joy_3>
+  <Joy_4>[ps4Triangle]</Joy_4>
+  <Joy_5>[ps4L1]</Joy_5>
+  <Joy_6>[ps4R1]</Joy_6>
+  <Joy_7>[ps4L2]</Joy_7>
+  <Joy_8>[ps4R2]</Joy_8>
+  <Joy_9>[ps4Share]</Joy_9>
+  <Joy_10>[ps4Options]</Joy_10>
+  <Joy_11>[ps4L3]</Joy_11>
+  <Joy_12>[ps4R3]</Joy_12>
+  <Joy_13>PS Button</Joy_13>
+  <Joy_14>[ps4Touchpad]</Joy_14>
+  <Joy_15>Mute Button</Joy_15>
+  <Joy_POV1Up>[ps4PadU]</Joy_POV1Up>
+  <Joy_POV1Right>[ps4PadR]</Joy_POV1Right>
+  <Joy_POV1Down>[ps4PadD]</Joy_POV1Down>
+  <Joy_POV1Left>[ps4PadL]</Joy_POV1Left>
+  <Joy_XAxis>[ps4LXAxis]</Joy_XAxis>
+  <Joy_YAxis>[ps4LYAxis]</Joy_YAxis>
+  <Joy_ZAxis>[ps4RXAxis]</Joy_ZAxis>
+  <Joy_RXAxis>[ps4L2]</Joy_RXAxis>
+  <Joy_RYAxis>[ps4R2]</Joy_RYAxis>
+  <Joy_RZAxis>[ps4RYAxis]</Joy_RZAxis>
+</Root>

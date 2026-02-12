@@ -35,6 +35,8 @@ Instead you want to go to your Bindings folder, which is at `%LocalAppData%\Fron
 At the time of writing the folder includes `Generic.buttonMap`, which has every button and axis defined, so as to act as a starting point for your own customization, plus complete button maps for the following devices (in alphabetical order):
 - CH Products Pro Throttle USB
 - Footcontrol USB
+- Sony DualSense
+- Sony DualSense Edge
 - Thrustmaster T.16000M
 - Thrustmaster TWCS
 - TurtleBeach VelocityOne FlightStick
