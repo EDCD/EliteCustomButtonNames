@@ -1,0 +1,117 @@
+<!-- Winwing WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE -->
+<Root>
+	<!-- F15EX Right Handle-->
+	<Joy_XAxis>Handle R - Joystick X</Joy_XAxis>
+	<Joy_YAxis>Handle R - Joystick Y</Joy_YAxis>
+	<Joy_ZAxis>Handle R - Left Rotary</Joy_ZAxis>
+
+	<Joy_3>Handle R - Bottom Switch PULL</Joy_3>
+	<Joy_4>Handle R - Bottom Switch MID</Joy_4>
+	<Joy_5>Handle R - Bottom Switch PUSH</Joy_5>
+	<Joy_6>Handle R - Lower Hat UP</Joy_6>
+	<Joy_7>Handle R - Lower Hat PUSH</Joy_7>
+	<Joy_8>Handle R - Lower Hat DOWN</Joy_8>
+	<Joy_9>Handle R - Lower Hat PULL</Joy_9>
+	<Joy_10>Handle R - Lower Hat PRESS</Joy_10>
+	<Joy_11>Handle R - Side Button</Joy_11>
+	<Joy_12>Handle R - Middle Back Hat UP</Joy_12>
+	<Joy_13>Handle R - Middle Back Hat PUSH</Joy_13>
+	<Joy_14>Handle R - Middle Back Hat DOWN</Joy_14>
+	<Joy_15>Handle R - Middle Back Hat PULL</Joy_15>
+	<Joy_16>Handle R - Middle Back Hat PRESS</Joy_16>
+	<Joy_17>Handle R - Middle Front Hat UP</Joy_17>
+	<Joy_18>Handle R - Middle Front Hat PUSH</Joy_18>
+	<Joy_19>Handle R - Middle Front Hat DOWN</Joy_19>
+	<Joy_20>Handle R - Middle Front Hat PULL</Joy_20>
+	<Joy_21>Handle R - Middle Front Hat PRESS</Joy_21>
+	<Joy_22>Handle R - Top Switch PUSH</Joy_22>
+	<Joy_23>Handle R - Top Switch MID</Joy_23>
+	<Joy_24>Handle R - Top Switch PULL</Joy_24>
+	<Joy_25>Handle R - Back Small Rotary UP</Joy_25>
+	<Joy_26>Handle R - Back Small Rotary MID</Joy_26>
+	<Joy_27>Handle R - Back Small Rotary DOWN</Joy_27>
+	<Joy_43>Handle R - Back Small Rotary FULL UP</Joy_43>
+	<Joy_44>Handle R - Back Small Rotary FULL DOWN</Joy_44>
+	<Joy_28>Handle R - Back Hat UP</Joy_28>
+	<Joy_29>Handle R - Back Hat PUSH</Joy_29>
+	<Joy_32>Handle R - Back Hat DOWN</Joy_32>
+	<Joy_33>Handle R - Back Hat PULL</Joy_33>
+	<Joy_34>Handle R - Back Hat PRESS</Joy_34>
+	<Joy_35>Handle R - Analog Stick PRESS</Joy_35>
+	<Joy_36>Handle R - Analog Stick UP</Joy_36>
+	<Joy_37>Handle R - Analog Stick RIGHT</Joy_37>
+	<Joy_38>Handle R - Analog Stick DOWN</Joy_38>
+	<Joy_39>Handle R - Analog Stick LEFT</Joy_39>
+	<Joy_40>Handle R - Back Rotary UP</Joy_40>
+	<Joy_41>Handle R - Back Rotary MID</Joy_41>
+	<Joy_42>Handle R - Back Rotary DOWN</Joy_42>
+
+	<!-- F15 Left Handle - this one is common for E and EX versions-->
+	<Joy_RZAxis>Handle L - Rotary</Joy_RZAxis>
+	<Joy_50>Handle L - Small Button Right</Joy_50>
+	<Joy_51>Handle L - Back Hat UP</Joy_51>
+	<Joy_52>Handle L - Back Hat RIGHT</Joy_52>
+	<Joy_53>Handle L - Back Hat DOWN</Joy_53>
+	<Joy_54>Handle L - Back Hat LEFT</Joy_54>
+	<Joy_55>Handle L - Back Hat PRESS</Joy_55>
+	<Joy_56>Handle L - Small Button Left</Joy_56>
+	<Joy_57>Handle L - Side Lever UP</Joy_57>
+	<Joy_58>Handle L - Side Lever MID</Joy_58>
+	<Joy_59>Handle L - Side Lever DOWN</Joy_59>
+	<Joy_60>Handle L - Rotary UP</Joy_60>
+	<Joy_61>Handle L - Rotary MID</Joy_61>
+	<Joy_62>Handle L - Rotary DOWN</Joy_62>
+
+	<!-- Throttle Base -->
+	<Joy_RYAxis>Left Throttle</Joy_RYAxis>
+	<Joy_RXAxis>Right Throttle</Joy_RXAxis>
+	<Joy_UAxis>Slider</Joy_UAxis>
+	<Joy_VAxis>Dial</Joy_VAxis>
+	<Joy_65>Launch bar UP</Joy_65>
+	<Joy_66>Launch bar DOWN</Joy_66>
+	<Joy_67>Hook UP</Joy_67>
+	<Joy_68>Hook DN</Joy_68>
+	<Joy_69>Wing Fold FOLD</Joy_69>
+	<Joy_70>Wing Fold HOLD</Joy_70>
+	<Joy_71>Wing Fold SPREAD</Joy_71>
+	<Joy_72>Wing Fold PUSH</Joy_72>
+	<Joy_73>LDG Gear UP</Joy_73>
+	<Joy_74>LDG Gear DOWN</Joy_74>
+	<Joy_75>Park BRK UP</Joy_75>
+	<Joy_76>Park BRK DOWN</Joy_76>
+	<Joy_77>Flap UP</Joy_77>
+	<Joy_78>Flap MID</Joy_78>
+	<Joy_79>Flap DOWN</Joy_79>
+	<Joy_80>Front Red Btn</Joy_80>
+	<Joy_81>A/G</Joy_81>
+	<Joy_82>A/A</Joy_82>
+	<Joy_83>HMD -</Joy_83>
+	<Joy_84>HMD +</Joy_84>
+	<Joy_85>HMD Press</Joy_85>
+	<Joy_86>Roll UP</Joy_86>
+	<Joy_87>Roll MID</Joy_87>
+	<Joy_88>Roll DOWN</Joy_88>
+	<Joy_89>A/P UP</Joy_89>
+	<Joy_90>A/P MID</Joy_90>
+	<Joy_91>A/P DOWN</Joy_91>
+	<Joy_92>Adv Mode</Joy_92>
+	<Joy_93>Master UP</Joy_93>
+	<Joy_94>Master MID</Joy_94>
+	<Joy_95>Master DOWN</Joy_95>
+	<Joy_96>Jett</Joy_96>
+	<Joy_97>HDG -</Joy_97>
+	<Joy_98>HDG +</Joy_98>
+	<Joy_99>HDG Push</Joy_99>
+	<Joy_100>CWS -</Joy_100>
+	<Joy_101>CWS +</Joy_101>
+	<Joy_102>CWS Push</Joy_102>
+	<Joy_103>Panel LTS -</Joy_103>
+	<Joy_104>Panel LTS +</Joy_104>
+	<Joy_105>Panel LTS Push</Joy_105>
+	<Joy_106>Slider UP</Joy_106>
+	<Joy_107>Slider MID</Joy_107>
+	<Joy_108>Slider DOWN</Joy_108>
+	<Joy_109>Dial UP</Joy_109>
+	<Joy_110>Dial MID</Joy_110>
+	<Joy_111>Dial DOWN</Joy_111>
+</Root>
