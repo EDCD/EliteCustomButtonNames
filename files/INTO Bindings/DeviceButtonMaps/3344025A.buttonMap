@@ -1,0 +1,45 @@
+<!-- Virpil Universal Control Panel #2 -->
+<Root>
+<Joy_1>B1 [xb1LThumb]</Joy_1>
+<Joy_2>B2 [xb1LThumb]</Joy_2>
+<Joy_3>B3 [xb1LThumb]</Joy_3>
+<Joy_4>B4 [xb1LThumb]</Joy_4>
+<Joy_5>B5 [xb1LThumb]</Joy_5>
+<Joy_6>B6 [xb1LThumb]</Joy_6>
+<Joy_7>B7 [xb1LThumb]</Joy_7>
+<Joy_8>B8 [xb1LThumb]</Joy_8>
+<Joy_9>B9 [xb1LThumb]</Joy_9>
+<Joy_10>B10 [xb1LThumb]</Joy_10>
+<Joy_11>[x52b9]</Joy_11>
+<Joy_12>[x52prob9]</Joy_12>
+<Joy_13>[x52prob10]</Joy_13>
+<Joy_14>[x52b10]</Joy_14>
+<Joy_15>[x52b11]</Joy_15>
+<Joy_16>[x52prob11]</Joy_16>
+<Joy_17>[x52prob12]</Joy_17>
+<Joy_18>[x52b12]</Joy_18>
+<Joy_19>[x52b13]</Joy_19>
+<Joy_20>[x52prob13]</Joy_20>
+<Joy_21>[x52prob14]</Joy_21>
+<Joy_22>[x52b14]</Joy_22>
+<Joy_23>Guarded switch 1 [x52z]</Joy_23>
+<Joy_24>Emergency 1 [x52proy+]</Joy_24>
+<Joy_25>Guarded switch 2 [x52z]</Joy_25>
+<Joy_26>Emergency 2 [x52proy+]</Joy_26>
+<Joy_27>T9 left [x52prox-]</Joy_27>
+<Joy_28>T9 right [x52prox+]</Joy_28>
+<Joy_29>T10 left [x52prox-]</Joy_29>
+<Joy_30>T10 right [x52prox+]</Joy_30>
+<Joy_31>E1 push [x52prory]</Joy_31>
+<Joy_32>E1 a-clockwise [x52prory-]</Joy_32>
+<Joy_33>E1 clockwise [x52prory+]</Joy_33>
+<Joy_34>E2 push [x52prory]</Joy_34>
+<Joy_35>E2 a-clockwise [x52prory-]</Joy_35>
+<Joy_36>E2 clockwise [x52prory+]</Joy_36>
+<Joy_37>E3 push [x52prory]</Joy_37>
+<Joy_38>E3 a-clockwise [x52prory-]</Joy_38>
+<Joy_39>E3 clockwise [x52prory+]</Joy_39>
+<Joy_40>Landing off [hts4ThrottleY]</Joy_40>
+<Joy_41>Landing up [hts4ThrottleD]</Joy_41>
+<Joy_42>Landing down [hts4ThrottleU]</Joy_42>
+</Root>

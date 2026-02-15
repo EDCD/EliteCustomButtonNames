@@ -40,6 +40,7 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 - Thrustmaster T.16000M
 - Thrustmaster TWCS
 - TurtleBeach VelocityOne FlightStick
+- Virpil Universal Control Panel #2
 - VKB Gladiator NXT EVO Space Combat Grip Premium (Left)
 - VKB Gladiator NXT Premium Right
 - VKB Gladiator NXT EVO Space Combat Grip Premium (Left)
