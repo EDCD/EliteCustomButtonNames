@@ -59,6 +59,7 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 - VKB STECS Space Throttle Grip Standard (Right)
 - VPC Throttle MT-50CM3 (Left)
 - VPC WarBRD Constellation Alpha Prime (Right)
+- Winwing WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R (Left)
 
 As Frontier's readme notes, you can edit and save these button maps while the game is running to experiment with how different names and icons look. Just go into Options -> Controls and the game will re-read them.
 
