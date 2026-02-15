@@ -1,0 +1,53 @@
+<!-- Winwing/Winctrl MFD 1 -->
+<Root>
+<Joy_1>WW B1 [x360LThumb]</Joy_1>
+<Joy_2>WW B2 [xb1LThumb]</Joy_2>
+<Joy_3>WW B3 [x360LThumb]</Joy_3>
+<Joy_4>WW B4 [xb1LThumb]</Joy_4>
+<Joy_5>WW B5 [x360LThumb]</Joy_5>
+<Joy_6>WW B6 [xb1LThumb]</Joy_6>
+<Joy_7>WW B7 [x360LThumb]</Joy_7>
+<Joy_8>WW B8 [xb1LThumb]</Joy_8>
+<Joy_9>WW B9 [x360LThumb]</Joy_9>
+<Joy_10>WW GAIN up [x360PadU]</Joy_10>
+<Joy_11>WW GAIN down [x360PadD]</Joy_11>
+<Joy_12>WW B12 [xb1LThumb]</Joy_12>
+<Joy_13>WW B13 [x360LThumb]</Joy_13>
+<Joy_14>WW B14 [xb1LThumb]</Joy_14>
+<Joy_15>WW B15 [x360LThumb]</Joy_15>
+<Joy_16>WW B16 [xb1LThumb]</Joy_16>
+<Joy_17>WW B17 [x360LThumb]</Joy_17>
+<Joy_18>WW B18 [xb1LThumb]</Joy_18>
+<Joy_19>WW B19 [x360LThumb]</Joy_19>
+<Joy_20>WW B20 [xb1LThumb]</Joy_20>
+<Joy_21>WW CONT down [x360PadD]</Joy_21>
+<Joy_22>WW CONT up [x360PadU]</Joy_22>
+<Joy_23>WW B23 [x360LThumb]</Joy_23>
+<Joy_24>WW B24 [xb1LThumb]</Joy_24>
+<Joy_25>WW B25 [x360LThumb]</Joy_25>
+<Joy_26>WW B26 [xb1LThumb]</Joy_26>
+<Joy_27>WW B27 [x360LThumb]</Joy_27>
+<Joy_28>WW B28 [xb1LThumb]</Joy_28>
+<Joy_29>WW B29 [x360LThumb]</Joy_29>
+<Joy_30>WW B30 [xb1LThumb]</Joy_30>
+<Joy_31>WW B31 [x360LThumb]</Joy_31>
+<Joy_32>WW SYM down [x360PadD]</Joy_32>
+<Joy_33>WW SYM up [x360PadU]</Joy_33>
+<Joy_34>WW B34 [xb1LThumb]</Joy_34>
+<Joy_35>WW B35 [x360LThumb]</Joy_35>
+<Joy_36>WW B36 [xb1LThumb]</Joy_36>
+<Joy_37>WW B37 [x360LThumb]</Joy_37>
+<Joy_38>WW B38 [xb1LThumb]</Joy_38>
+<Joy_39>WW B39 [x360LThumb]</Joy_39>
+<Joy_40>WW B40 [xb1LThumb]</Joy_40>
+<Joy_41>WW B41 [x360LThumb]</Joy_41>
+<Joy_42>WW B42 [xb1LThumb]</Joy_42>
+<Joy_43>WW DAY [x360PadU]</Joy_43>
+<Joy_44>WW NGT [x360PadD]</Joy_44>
+<Joy_45>WW SIDE down [x52u-]</Joy_45>
+<Joy_46>WW SIDE mid [x52u]</Joy_46>
+<Joy_47>WW SIDE up [x52u+]</Joy_47>
+<Joy_48>WW KNOB press [x52b2]</Joy_48>
+<Joy_49>WW KNOB left [x52prorx-]</Joy_49>
+<Joy_50>WW KNOB right [x52prorx+]</Joy_50>
+</Root>
