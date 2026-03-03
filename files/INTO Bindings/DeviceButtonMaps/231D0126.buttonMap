@@ -5,10 +5,10 @@
 	<Joy_RZAxis>SCG [x52prorz]</Joy_RZAxis>
 	<Joy_XAxis>SCG [x52prox]</Joy_XAxis>
 	<Joy_YAxis>SCG [x52proy]</Joy_YAxis>
-	<Joy_POV1Up>SCG A1 [ps4PadU]</Joy_POV1[ps4PadU]>
-	<Joy_POV1[ps4PadR]>SCG A1 [ps4PadR]</Joy_POV1[ps4PadR]>
-	<Joy_POV1[ps4PadD]>SCG A1 [ps4PadD]</Joy_POV1[ps4PadD]>
-	<Joy_POV1[ps4PadL]>SCG A1 [ps4PadL]</Joy_POV1[ps4PadL]>
+	<Joy_POV1Up>SCG A1 [ps4PadU]</Joy_POV1Up>
+	<Joy_POV1Right>SCG A1 [ps4PadR]</Joy_POV1Right>
+	<Joy_POV1Down>SCG A1 [ps4PadD]</Joy_POV1Down>
+	<Joy_POV1Left>SCG A1 [ps4PadL]</Joy_POV1Left>
 	<Joy_1>SCG Fire 1</Joy_1>
 	<Joy_2>SCG Fire 2</Joy_2>
 	<Joy_3>SCG A2 (thumb red)</Joy_3>
