@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- RIGHT VPC Control Panel 3 -->
+<Root>
+	<!-- Lever Axes Black, Yellow, Blue, Red -->
+	<Joy_XAxis>CP3 [x52prou] Black</Joy_XAxis>
+	<Joy_YAxis>CP3 [x52prou] Yellow</Joy_YAxis>
+	<Joy_RXAxis>CP3 [x52prou] Blue</Joy_RXAxis>
+	<Joy_RYAxis>CP3 [x52prou] Red</Joy_RYAxis>
+
+	<!-- Lever Axes Up Black, Yellow, Blue, Red -->
+	<Pos_Joy_XAxis>CP3 [x52prou+] Black</Pos_Joy_XAxis>
+	<Pos_Joy_YAxis>CP3 [x52prou+] Yellow</Pos_Joy_YAxis>
+	<Pos_Joy_RXAxis>CP3 [x52prou+] Blue</Pos_Joy_RXAxis>
+	<Pos_Joy_RYAxis>CP3 [x52prou+] Red</Pos_Joy_RYAxis>
+
+	<!-- Lever Axes Down Black, Yellow, Blue, Red -->
+	<Neg_Joy_XAxis>CP3 [x52prou-] Black</Neg_Joy_XAxis>
+	<Neg_Joy_YAxis>CP3 [x52prou-] Yellow</Neg_Joy_YAxis>
+	<Neg_Joy_RXAxis>CP3 [x52prou-] Blue</Neg_Joy_RXAxis>
+	<Neg_Joy_RYAxis>CP3 [x52prou-] Red</Neg_Joy_RYAxis>
+
+	<!-- Buttons B1, B2, B3, B4, B5, B6, B7, B8, B9, B10, B11, B12, B13 -->
+	<Joy_1>CP3 B1</Joy_1>
+	<Joy_2>CP3 B2</Joy_2>
+	<Joy_3>CP3 B3</Joy_3>
+	<Joy_4>CP3 B4</Joy_4>
+	<Joy_5>CP3 B5</Joy_5>
+	<Joy_6>CP3 B6</Joy_6>
+	<Joy_7>CP3 B7</Joy_7>
+	<Joy_8>CP3 B8</Joy_8>
+	<Joy_9>CP3 B9</Joy_9>
+	<Joy_10>CP3 B10</Joy_10>
+	<Joy_11>CP3 B11</Joy_11>
+	<Joy_12>CP3 B12</Joy_12>
+	<Joy_13>CP3 B13</Joy_13>
+
+	<!-- Latching Toggle Switch T1 -->
+	<!-- Up, Mid, Down -->
+	<Joy_14>CP3 T1 - Up</Joy_14>
+	<Joy_15>CP3 T1 - Mid</Joy_15>
+	<Joy_16>CP3 T1 - Down</Joy_16>
+
+	<!-- Toggle Switches T2, T3, T4, T5, T6, T7, T8 -->
+	<!-- each Up, Down -->
+	<Joy_17>CP3 T2 - Up</Joy_17>
+	<Joy_18>CP3 T2 - Down</Joy_18>
+	<Joy_19>CP3 T3 - Up</Joy_19>
+	<Joy_20>CP3 T3 - Down</Joy_20>
+	<Joy_21>CP3 T4 - Up</Joy_21>
+	<Joy_22>CP3 T4 - Down</Joy_22>
+	<Joy_23>CP3 T5 - Up</Joy_23>
+	<Joy_24>CP3 T5 - Down</Joy_24>
+	<Joy_25>CP3 T6 - Up</Joy_25>
+	<Joy_26>CP3 T6 - Down</Joy_26>
+	<Joy_27>CP3 T7 - Up</Joy_27>
+	<Joy_28>CP3 T7 - Down</Joy_28>
+	<Joy_29>CP3 T8 - Up</Joy_29>
+	<Joy_30>CP3 T8 - Down</Joy_30>
+
+	<!-- Latching Toggle Switch L | R (horizontal)-->
+	<!-- Left, Center, Right -->
+	<Joy_31>CP3 TH - L</Joy_31>
+	<Joy_32>CP3 TH - |</Joy_32>
+	<Joy_33>CP3 TH - R</Joy_33>
+
+	<!-- Latching Toggle Switch MASTER ARM -->
+	<!-- Up, Mid, Down -->
+	<Joy_34>CP3 MASTER ARM - Up</Joy_34>
+	<Joy_35>CP3 MASTER ARM - Mid</Joy_35>	
+	<Joy_36>CP3 MASTER ARM - Down</Joy_36>
+
+	<!-- Scroll Encoder Dials E1, E2 -->
+	<!-- each Push, Counter-Clockwise, Clockwise -->
+	<Joy_37>CP3 [x52prob8] 1</Joy_37>
+	<Joy_38>CP3 [x52prory-] 1</Joy_38>
+	<Joy_39>CP3 [x52prory+] 1</Joy_39>
+	<Joy_40>CP3 [x52prob8] 2</Joy_40>
+	<Joy_41>CP3 [x52prory-] 2</Joy_41>
+	<Joy_42>CP3 [x52prory+] 2</Joy_42>
+
+	<!-- MODE Dial 1, 2, 3, 4, 5 -->
+	<Joy_43>CP3 MODE - 1</Joy_43>
+	<Joy_44>CP3 MODE - 2</Joy_44>
+	<Joy_45>CP3 MODE - 3</Joy_45>
+	<Joy_46>CP3 MODE - 4</Joy_46>
+	<Joy_47>CP3 MODE - 5</Joy_47>
+</Root>
