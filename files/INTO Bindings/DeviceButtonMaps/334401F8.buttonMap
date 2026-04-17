@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- VPC Rudder Pedals ACE -->
+<Root>
+	<!-- Toe Brake Axes Right, Left -->
+	<Joy_UAxis>Toe Brake Right</Joy_UAxis>
+	<Joy_VAxis>Toe Brake Left</Joy_VAxis>
+	<!-- Rudder Axis -->
+	<Joy_ZAxis>[xb1htsRudAx]</Joy_ZAxis>
+
+	<!-- Toe Brake Axes Right, Left -->
+	<!-- Release -->
+	<Pos_Joy_UAxis>Toe Brake Release Right</Pos_Joy_UAxis>
+	<Pos_Joy_VAxis>Toe Brake Release Left</Pos_Joy_VAxis>
+	<!-- Rudder Axis Counter-Clockwise -->
+	<Pos_Joy_ZAxis>[xb1htsRudAx+]</Pos_Joy_ZAxis>
+
+	<!-- Toe Brake Axes Right, Left -->
+	<!-- Push -->
+	<Neg_Joy_UAxis>Toe Brake Push Right</Neg_Joy_UAxis>
+	<Neg_Joy_VAxis>Toe Brake Push Left</Neg_Joy_VAxis>
+	<!-- Rudder Axis Clockwise -->
+	<Neg_Joy_ZAxis>[xb1htsRudAx-]</Neg_Joy_ZAxis>
+</Root>
