@@ -58,8 +58,14 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 - VKB STECS Space Throttle Grip Mini Plus (Right)
 - VKB STECS Space Throttle Grip Standard (Left)
 - VKB STECS Space Throttle Grip Standard (Right)
+- VPC Control Panel 3 (Right side)
+- VPC MT-50CM3 with Constellation Alpha (Right hand, no side/center)
+- VPC Rudder Pedals ACE
 - VPC Throttle MT-50CM3 (Left)
+- VPC VMAX Prime Throttle (Left side)
 - VPC WarBRD Constellation Alpha Prime (Right)
+- VPC WarBRD-D with Constellation Alpha Prime (Left hand and side)
+- VPC WarBRD-D with Constellation Alpha Prime (Right hand and side)
 - WinWing/WINCTRL MFD
 - Winwing/WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R (Left)
 
