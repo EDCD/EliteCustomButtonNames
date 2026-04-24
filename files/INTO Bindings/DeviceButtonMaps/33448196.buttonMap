@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- LEFT VPC VMAX Prime Throttle -->
+<Root>
+	<!-- Throttle Axes Left, Right -->
+	<Joy_RXAxis>VMAX [x52proz] L</Joy_RXAxis>
+	<Joy_RYAxis>VMAX [x52proz] R</Joy_RYAxis>
+	<!-- Flaps Axis / MVR -->
+	<Joy_RZAxis>VMAX [x52prou]</Joy_RZAxis>
+	<!-- Dial Axes Left, Top -->
+	<Joy_UAxis>VMAX [x52prorx] Left</Joy_UAxis>
+	<Joy_VAxis>VMAX [x52prorx] Top</Joy_VAxis>
+	<!-- Mini-Stick Axes X, Y -->
+	<Joy_XAxis>VMAX [ps4RXAxis]</Joy_XAxis>
+	<Joy_YAxis>VMAX [ps4RYAxis]</Joy_YAxis>
+
+	<!-- Throttle Axis Left, Right -->
+	<!-- MAX -->
+	<Pos_Joy_RXAxis>VMAX [x52proz+] L</Pos_Joy_RXAxis>
+	<Pos_Joy_RYAxis>VMAX [x52proz+] R</Pos_Joy_RYAxis>
+	<!-- Flaps Axis / MVR UP -->
+	<Pos_Joy_RZAxis>VMAX [x52prou+]</Pos_Joy_RZAxis>
+	<!-- Dial Axis Left Counter-Clockwise -->
+	<Pos_Joy_UAxis>VMAX [x52prorx-] Left</Pos_Joy_UAxis>
+	<!-- Dial Axis Top Clockwise -->
+	<Pos_Joy_VAxis>VMAX [x52prorx+] Top</Pos_Joy_VAxis>
+	<!-- Analogue Mini-Stick Axes -->
+	<!-- Right, Down -->
+	<Pos_Joy_XAxis>VMAX [ps4RThumbR]</Pos_Joy_XAxis>
+	<Pos_Joy_YAxis>VMAX [ps4RThumbD]</Pos_Joy_YAxis>
+
+	<!-- Throttle Axis Left, Right -->
+	<!-- IDLE/OFF -->
+	<Neg_Joy_RXAxis>VMAX [x52proz-] L</Neg_Joy_RXAxis>
+	<Neg_Joy_RYAxis>VMAX [x52proz-] R</Neg_Joy_RYAxis>
+	<!-- Flaps Axis / MVR DN -->
+	<Neg_Joy_RZAxis>VMAX [x52prou-]</Neg_Joy_RZAxis>
+	<!-- Dial Axis Left Clockwise -->
+	<Neg_Joy_UAxis>VMAX [x52prorx+] Left</Neg_Joy_UAxis>
+	<!-- Dial Axis Top Counter-Clockwise -->
+	<Neg_Joy_VAxis>VMAX [x52prorx-] Top</Neg_Joy_VAxis>
+	<!-- Analogue Mini-Stick Axes -->
+	<!-- Left, Up -->
+	<Neg_Joy_XAxis>VMAX [ps4RThumbL]</Neg_Joy_XAxis>
+	<Neg_Joy_YAxis>VMAX [ps4RThumbU]</Neg_Joy_YAxis>
+
+	<!-- Grey Button Pinkie -->
+	<Joy_1>VMAX [x52prob7]</Joy_1>
+
+	<!-- Dial Left Push -->
+	<Joy_2>VMAX [x52prob31] Left</Joy_2>
+
+	<!-- Circle Button Middle Finger -->
+	<Joy_3>VMAX [x52prob4]</Joy_3>
+
+	<!-- 4-Way Hat Index -->
+	<!-- Push, Up, Right, Down, Left -->
+	<Joy_4>VMAX [x52prob26] Push</Joy_4>
+	<Joy_5>VMAX [x52prob24]</Joy_5>
+	<Joy_6>VMAX [x52prob25]</Joy_6>
+	<Joy_7>VMAX [x52prob26]</Joy_7>
+	<Joy_8>VMAX [x52prob27]</Joy_8>
+
+	<!-- Dial Top Push -->
+	<Joy_9>VMAX [x52prob31] Top</Joy_9>
+
+	<!-- 2-Way Hat Thumb Left -->
+	<!-- Push, Up, Down -->
+	<Joy_10>VMAX [x52b22] Push</Joy_10>
+	<Joy_11>VMAX [x52b20]</Joy_11>
+	<Joy_13>VMAX [x52b22]</Joy_13>
+
+	<!-- Mini-Stick Push -->
+	<Joy_15>VMAX [ps4RThumb]</Joy_15>
+
+	<!-- Circle Button Thumb -->
+	<Joy_16>VMAX [x52prob3]</Joy_16>
+	<!-- Grey Button Thumb -->
+	<Joy_17>VMAX [x52prob5]</Joy_17>
+
+	<!-- 4-Way Hat Thumb -->
+	<!-- Push, Up, Right, Down, Left -->
+	<Joy_18>VMAX [x52prob22] Push</Joy_18>
+	<Joy_19>VMAX [x52prob20]</Joy_19>
+	<Joy_20>VMAX [x52prob21]</Joy_20>
+	<Joy_21>VMAX [x52prob22]</Joy_21>
+	<Joy_22>VMAX [x52prob23]</Joy_22>
+
+	<!-- KEYBOARD Buttons B1, B2, B3, B4, B5, B6 -->
+	<Joy_23>VMAX B1</Joy_23>
+	<Joy_24>VMAX B2</Joy_24>
+	<Joy_25>VMAX B3</Joy_25>
+	<Joy_26>VMAX B4</Joy_26>
+	<Joy_27>VMAX B5</Joy_27>
+	<Joy_28>VMAX B6</Joy_28>
+
+	<!-- EMERG STORES JETT Button B7 -->
+	<Joy_29>VMAX STORES JETT B7</Joy_29>
+
+	<!-- Toggle Switches T1, T2, T3, T4, T5 -->
+	<!-- each Up, Down-->
+	<Joy_30>VMAX T1 - Up</Joy_30>
+	<Joy_31>VMAX T1 - Down</Joy_31>
+	<Joy_32>VMAX T2 - Up</Joy_32>
+	<Joy_33>VMAX T2 - Down</Joy_33>
+	<Joy_34>VMAX T3 - Up</Joy_34>
+	<Joy_35>VMAX T3 - Down</Joy_35>
+	<Joy_36>VMAX T4 - Up</Joy_36>
+	<Joy_37>VMAX T4 - Down</Joy_37>
+	<Joy_38>VMAX T5 - Up</Joy_38>
+	<Joy_39>VMAX T5 - Down</Joy_39>
+
+	<!-- APU Button -->
+	<Joy_40>VMAX APU</Joy_40>
+
+	<!-- Encoder Dials E1, E2 -->
+	<!-- each Push, Counter-Clockwise, Clockwise -->
+	<Joy_41>VMAX [x52prob8] 1</Joy_41>
+	<Joy_42>VMAX [x52prory-] 1</Joy_42>
+	<Joy_43>VMAX [x52prory+] 1</Joy_43>
+	<Joy_44>VMAX [x52prob8] 2</Joy_44>
+	<Joy_45>VMAX [x52prory-] 2</Joy_45>
+	<Joy_46>VMAX [x52prory+] 2</Joy_46>
+
+	<!-- MODE Switch Dial 1, 2, 3, 4, 5 -->
+	<Joy_47>VMAX MODE - 1</Joy_47>
+	<Joy_48>VMAX MODE - 2</Joy_48>
+	<Joy_49>VMAX MODE - 3</Joy_49>
+	<Joy_50>VMAX MODE - 4</Joy_50>
+	<Joy_51>VMAX MODE - 5</Joy_51>
+</Root>

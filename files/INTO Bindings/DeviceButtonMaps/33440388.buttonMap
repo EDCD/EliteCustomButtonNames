@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- VPC Stick MT-50CM3 with Constellation Alpha (Right) -->
+<Root>
+	<!-- Analogue Mini-Stick Axes -->
+	<!-- X, Y -->
+	<Joy_RXAxis>Alpha [ps4RXAxis]</Joy_RXAxis>
+	<Joy_RYAxis>Alpha [ps4RYAxis]</Joy_RYAxis>
+	<!-- Brake Lever Axis -->
+	<Joy_UAxis>Alpha Brake [x52prob6]</Joy_UAxis>
+	<!-- Base Axes -->
+	<!-- X, Y -->
+	<Joy_XAxis>CM3 [x52prox]</Joy_XAxis>
+	<Joy_YAxis>CM3 [x52proy]</Joy_YAxis>
+	<!-- Twist Axis -->
+	<Joy_ZAxis>Alpha [x52prorz]</Joy_ZAxis>
+
+	<!-- Analogue Mini-Stick Axes -->
+	<!--Right, Down -->
+	<Pos_Joy_RXAxis>Alpha [ps4RThumbR]</Pos_Joy_RXAxis>
+	<Pos_Joy_RYAxis>Alpha [ps4RThumbD]</Pos_Joy_RYAxis>
+	<!-- Brake Lever Axis Pull -->
+	<Pos_Joy_UAxis>Alpha Brake [x52prob6]</Pos_Joy_UAxis>
+	<!-- Base Axes -->
+	<!-- Right, Down -->
+	<Pos_Joy_XAxis>CM3 [x52prox+]</Pos_Joy_XAxis>
+	<Pos_Joy_YAxis>CM3 [x52proy-]</Pos_Joy_YAxis>
+	<!-- Twist Axis Clockwise -->
+	<Pos_Joy_ZAxis>Alpha [x52prorz+]</Pos_Joy_ZAxis>
+
+	<!-- Analogue Mini-Stick Axes -->
+	<!-- Left, Up -->
+	<Neg_Joy_RXAxis>Alpha [ps4RThumbL]</Neg_Joy_RXAxis>
+	<Neg_Joy_RYAxis>Alpha [ps4RThumbU]</Neg_Joy_RYAxis>
+	<!-- Brake Lever Axis Release -->
+	<Neg_Joy_UAxis>Alpha Brake [x52prob6]</Neg_Joy_UAxis>
+	<!-- Base Axes -->
+	<!-- Left, Up -->
+	<Neg_Joy_XAxis>CM3 [x52prox-]</Neg_Joy_XAxis>
+	<Neg_Joy_YAxis>CM3 [x52proy+]</Neg_Joy_YAxis>
+	<!-- Twist Axis Counter-Clockwise -->
+	<Neg_Joy_ZAxis>Alpha [x52prorz-]</Neg_Joy_ZAxis>
+
+	<!-- Flip Trigger -->
+	<!-- Up, Pull -->
+	<Joy_1>Alpha Flip [x52prob1] - Up</Joy_1>
+	<Joy_2>Alpha Flip [x52prob1] - Pull</Joy_2>
+	<!-- Dual-Stage Trigger -->
+	<!-- Stage 1, Stage 2 -->
+	<Joy_3>Alpha [x52prob1] - Stage 1</Joy_3>
+	<Joy_4>Alpha [x52prob15] - Stage 2</Joy_4>
+
+	<!-- Analogue Mini-Stick Push -->
+	<Joy_5>Alpha [ps4RThumb]</Joy_5>
+
+	<!-- Momentary Button Black -->
+	<Joy_6>Alpha [x52prob4]</Joy_6>
+
+	<!-- 4-way Hat Face Bottom-Left -->
+	<!-- Push, Up, Right, Down, Left -->
+	<Joy_7>Alpha Face [x52prob26] Push</Joy_7>
+	<Joy_8>Alpha Face [x52prob24]</Joy_8>
+	<Joy_9>Alpha Face [x52prob25]</Joy_9>
+	<Joy_10>Alpha Face [x52prob26]</Joy_10>
+	<Joy_11>Alpha Face [x52prob27]</Joy_11>
+
+	<!-- Momentary Button Red -->
+	<Joy_12>Alpha [x52prob3]</Joy_12>
+
+	<!-- 4-way Hat Face Top-Right -->
+	<!-- Push, Up, Right, Down, Left -->
+	<Joy_13>Alpha [x52prop1d] Push</Joy_13>
+	<Joy_14>Alpha [x52prop1u]</Joy_14>
+	<Joy_15>Alpha [x52prop1r]</Joy_15>
+	<Joy_16>Alpha [x52prop1d]</Joy_16>
+	<Joy_17>Alpha [x52prop1l]</Joy_17>
+
+	<!-- 2-way Hat Index Side -->
+	<!-- Push, Up, Down -->
+	<Joy_18>Alpha Index [x52b22] Push</Joy_18>
+	<Joy_19>Alpha Index [x52b20]</Joy_19>
+	<Joy_20>Alpha Index [x52b22]</Joy_20>
+
+	<!-- Scroll Encoder -->
+	<!-- Push1, Push 2, Down, Up -->
+	<Joy_21>Alpha [x52prob19] Push 1</Joy_21>
+	<Joy_22>Alpha [x52prob19] Push 2</Joy_22>
+	<Joy_23>Alpha [x52prob19] Down</Joy_23>
+	<Joy_24>Alpha [x52prob19] Up</Joy_24>
+
+	<!-- 4-way Hat Thumb Side -->
+	<!-- Push, Up, Right, Down, Left -->
+	<Joy_25>Alpha Side [x52prob26] Push</Joy_25>
+	<Joy_26>Alpha Side [x52prob24]</Joy_26>
+	<Joy_27>Alpha Side [x52prob25]</Joy_27>
+	<Joy_28>Alpha Side [x52prob26]</Joy_28>
+	<Joy_29>Alpha Side [x52prob27]</Joy_29>
+
+	<!-- Momentary Button Pinkie -->
+	<Joy_30>Alpha [x52prob5]</Joy_30>
+
+	<!-- Brake Lever Momentary Button -->
+	<Joy_31>Alpha Brake [x52prob6]</Joy_31>
+</Root>
