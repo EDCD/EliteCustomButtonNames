@@ -86,6 +86,8 @@ We very much welcome contributions extending our device coverage. A GitHub pull 
 ## Troubleshooting
 Elite Dangerous expects valid XML in the buttonMap files, and will reject buttonMaps that do not fully parse without any error messages. If you have any trouble it is recommended that you run your file through a visual XML parser, such as [this one](https://jsonformatter.org/xml-parser), to check for issues.
 
+Update: we now have a GitHub action that validates buttonMap files upon push or PR request.
+
 ## Forum Thread
 GitHub is great for change management but not so great for discussion. If preferred, there is a [thread on Frontier's Forums](https://forums.frontier.co.uk/threads/custom-button-labels-for-elite-dangerous.641113/).
 
