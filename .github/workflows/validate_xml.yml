@@ -1,5 +1,4 @@
 # A workflow to validate that submitted buttonMap files are valid XML
-
 name: Validate buttonMaps as XML
 
 # Controls when the workflow will run
@@ -23,10 +22,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Validates that all files in files/INTO\ Bindings/DeviceButtonMaps/*.buttonMap are valid XML
+      # Validates that .xml and .buttonMap files are valid XML. The file suffix is case-insentive.
       - name: Validate buttonMaps as XML
         uses: action-pack/valid-xml@v1
         with:
-          path: "files/INTO\ Bindings/DeviceButtonMaps/"
-          file-endings: ".buttonMap"
+          file-endings: ".xml, .buttonMap"
  
