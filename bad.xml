@@ -1,0 +1,77 @@
+<!-- VKB STECS Modern Throttle System Standard -->
+<!-- (no button substitutions)-->
+<!-- 1. BRK = 5-way -->
+<!-- 2. MB1 = mini-stick -->
+<!-- 3. RADIO = 3-way -->
+<!-- 4. MB2 = 5-way -->
+<!-- 5. OP EXEC = 5-way large -->
+<!-- 6. OTS = 5-way -->
+<Root>
+	<Joy_RXAxis>LSTECS MB1 [x52prox]</Joy_RXAxiss>
+	<Joy_RYAxis>LSTECS MB1 [x52proy]</Joy_RYAxis>
+	<Joy_XAxis>LSTECS Throttle L [x52proy]</Joy_XAxis>
+	<Joy_YAxis>LSTECS Throttle R [x52proy]</Joy_YAxis>
+	<Joy_ZAxis>LSTECS Thumb WH</Joy_ZAxis>
+	<Joy_1>LSTECS Sys</Joy_1>
+	<Joy_2>LSTECS Start</Joy_2>
+	<Joy_3>LSTECS Mode 1</Joy_3>
+	<Joy_4>LSTECS Mode 2</Joy_4>
+	<Joy_5>LSTECS Mode 3</Joy_5>
+	<Joy_6>LSTECS Mode 4</Joy_6>
+	<Joy_7>LSTECS Mode 5</Joy_7>
+	<Joy_8>LSTECS Back TrigL</Joy_8>
+	<Joy_9>LSTECS Front TrigL</Joy_9>
+	<Joy_10>LSTECS Weapon Select</Joy_10>
+	<Joy_11>LSTECS RST</Joy_11>
+	<Joy_12>LSTECS ENC WH [ps4PadU]</Joy_12>
+	<Joy_13>LSTECS ENC WH [ps4PadD]</Joy_13>
+	<Joy_14>LSTECS ENC WH-side [ps4PadU]</Joy_14>
+	<Joy_15>LSTECS ENC WH-side [ps4PadD]</Joy_15>
+	<Joy_16>LSTECS Back TrigR</Joy_16>
+	<Joy_17>LSTECS Front TrigR</Joy_17>
+	<Joy_18>LSTECS ENT</Joy_18>
+	<Joy_19>LSTECS OTS Click</Joy_19>
+	<Joy_20>LSTECS BRK Click</Joy_20>
+	<Joy_21>LSTECS MB1 Click</Joy_21>
+	<Joy_22>LSTECS RADIO Click</Joy_22>
+	<Joy_23>LSTECS MB2 Click</Joy_23>
+	<Joy_24>LSTECS OP EXEC [x360LThumb]</Joy_24>
+	<Joy_25>LSTECS BRK [ps4PadU]</Joy_25>
+	<Joy_26>LSTECS BRK [ps4PadD]</Joy_26>
+	<Joy_27>LSTECS BRK [ps4PadR]</Joy_27>
+	<Joy_28>LSTECS BRK [ps4PadL]</Joy_28>
+	<Joy_29>LSTECS RADIO [ps4PadD]</Joy_29>
+	<Joy_30>LSTECS RADIO [ps4PadU]</Joy_30>
+	<Joy_31>LSTECS MB2 [ps4PadL]</Joy_31>
+	<Joy_32>LSTECS MB2 [ps4PadR]</Joy_32>
+	<Joy_33>LSTECS MB2 [ps4PadD]</Joy_33>
+	<Joy_34>LSTECS MB2 [ps4PadU]</Joy_34>
+	<Joy_35>LSTECS OTS [ps4PadD]</Joy_35>
+	<Joy_36>LSTECS OTS [ps4PadL]</Joy_36>
+	<Joy_37>LSTECS OTS [ps4PadU]</Joy_37>
+	<Joy_38>LSTECS OTS [ps4PadR]</Joy_38>
+	<Joy_39>LSTECS A1</Joy_39>
+	<Joy_40>LSTECS A2</Joy_40>
+	<Joy_41>LSTECS C1</Joy_41>
+	<Joy_42>LSTECS B1</Joy_42>
+	<Joy_43>LSTECS B2</Joy_43>
+	<Joy_44>LSTECS B3</Joy_44>
+	<Joy_45>LSTECS B4</Joy_45>
+	<Joy_46>LSTECS B5</Joy_46>
+	<Joy_47>LSTECS SW1 [ps4PadU]</Joy_47>
+	<Joy_48>LSTECS SW1 Click</Joy_48>
+	<Joy_49>LSTECS SW1 [ps4PadD]</Joy_49>
+	<Joy_50>LSTECS SW1 [ps4PadU]</Joy_50>
+	<Joy_51>LSTECS SW1 Click</Joy_51>
+	<Joy_52>LSTECS SW1 [ps4PadD]</Joy_52>
+	<Joy_53>LSTECS TGL UP</Joy_53>
+	<Joy_54>LSTECS TGL DN</Joy_54>
+	<Joy_55>LSTECS EN1 Rot CCW</Joy_55>
+	<Joy_56>LSTECS EN1 Rot CW</Joy_56>
+	<Joy_57>LSTECS EN2 Rot CCW</Joy_57>
+	<Joy_58>LSTECS EN2 Rot CW</Joy_58>
+	<Joy_59>LSTECS EN1 Click</Joy_59>
+	<Joy_60>LSTECS EN2 Click</Joy_60>
+	<Joy_61>LSTECS LEV UP</Joy_61>
+	<Joy_62>LSTECS LEV DOWN</Joy_62>
+</Root>
