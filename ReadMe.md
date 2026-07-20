@@ -38,6 +38,8 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 | ------ | ---------|
 | CH Products Pro Throttle USB| CHProThrottle1.buttonMap |
 | Footcontrol USB| 09111844.buttonMap |
+| Saitek/Logitech X56 Joystick| SaitekX56Joystick.buttonMap |
+| Saitek/Logitech X56 Throttle| SaitekX56Throttle.buttonMap |
 | Sony DualSense| 054C0CE6.buttonMap |
 | Sony DualSense Edge| 054C0DF2.buttonMap |
 | Thrustmaster T.16000M| T16000M.buttonMap |

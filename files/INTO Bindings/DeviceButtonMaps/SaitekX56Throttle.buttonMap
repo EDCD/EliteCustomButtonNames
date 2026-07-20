@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<!-- Thumb Buttons -->
+	<Joy_1>E</Joy_1>
+	<Joy_2>F (RTY 1 Push)</Joy_2>
+	<Joy_3>G (RTY 2 Push)</Joy_3>
+
+	<!-- Back Buttons -->
+	<Joy_4>I (Middle Finger)</Joy_4>
+	<Joy_5>H (Index Finger)</Joy_5>
+
+	<!-- Base Toggle Switches -->
+	<Joy_6>SW1</Joy_6>
+	<Joy_7>SW2</Joy_7>
+	<Joy_8>SW3</Joy_8>
+	<Joy_9>SW4</Joy_9>
+	<Joy_10>SW5</Joy_10>
+	<Joy_11>SW6</Joy_11>
+
+	<!-- Base Toggles (TGL 1-4, each has Up/Down) -->
+	<Joy_12>TGL 1 Up</Joy_12>
+	<Joy_13>TGL 1 Down</Joy_13>
+	<Joy_14>TGL 2 Up</Joy_14>
+	<Joy_15>TGL 2 Down</Joy_15>
+	<Joy_16>TGL 3 Up</Joy_16>
+	<Joy_17>TGL 3 Down</Joy_17>
+	<Joy_18>TGL 4 Up</Joy_18>
+	<Joy_19>TGL 4 Down</Joy_19>
+
+	<!-- H3 Hat (Upper Thumb Hat) -->
+	<Joy_20>H3 Up</Joy_20>
+	<Joy_21>H3 Right</Joy_21>
+	<Joy_22>H3 Down</Joy_22>
+	<Joy_23>H3 Left</Joy_23>
+
+	<!-- H4 Hat (Lower Thumb Hat) -->
+	<Joy_24>H4 Up</Joy_24>
+	<Joy_25>H4 Right</Joy_25>
+	<Joy_26>H4 Down</Joy_26>
+	<Joy_27>H4 Left</Joy_27>
+
+	<!-- Pinky Rocker Switch -->
+	<Joy_28>K1 Up</Joy_28>
+	<Joy_29>K1 Down</Joy_29>
+
+	<!-- Scroll Wheel -->
+	<Joy_30>Scroll Fwd</Joy_30>
+	<Joy_31>Scroll Back</Joy_31>
+
+	<!-- Ministick and Slider -->
+	<Joy_32>STK (Ministick)</Joy_32>
+	<Joy_33>SLD (Slider)</Joy_33>
+
+	<!-- Mode Switch -->
+	<Joy_34>M1</Joy_34>
+	<Joy_35>M2</Joy_35>
+	<Joy_36>S1</Joy_36>
+
+	<!-- Axes -->
+	<Joy_XAxis>Throttle R</Joy_XAxis>
+	<Joy_YAxis>Throttle L</Joy_YAxis>
+	<Joy_ZAxis>F (RTY 1)</Joy_ZAxis>
+	<Joy_RXAxis>Throttle Ministick X</Joy_RXAxis>
+	<Joy_RYAxis>Throttle Ministick Y</Joy_RYAxis>
+	<Joy_RZAxis>G (RTY 2)</Joy_RZAxis>
+	<Joy_Slider1>Slider</Joy_Slider1>
+	<Joy_UAxis>RTY 3</Joy_UAxis>
+	<Joy_VAxis>RTY 4</Joy_VAxis>
+</Root>

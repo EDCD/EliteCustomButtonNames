@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<!-- Stick Buttons -->
+	<Joy_1>TG1 (Trigger)</Joy_1>
+	<Joy_2>A</Joy_2>
+	<Joy_3>B</Joy_3>
+	<Joy_4>STK (Ministick)</Joy_4>
+	<Joy_5>D (Pinky)</Joy_5>
+	<Joy_6>LVR (Pinky Lever)</Joy_6>
+
+	<!-- H1 Hat (Top-Right) -->
+	<Joy_7>H1 Up</Joy_7>
+	<Joy_8>H1 Right</Joy_8>
+	<Joy_9>H1 Down</Joy_9>
+	<Joy_10>H1 Left</Joy_10>
+
+	<!-- H2 Hat (Bottom-Right) -->
+	<Joy_11>H2 Up</Joy_11>
+	<Joy_12>H2 Right</Joy_12>
+	<Joy_13>H2 Down</Joy_13>
+	<Joy_14>H2 Left</Joy_14>
+
+	<!-- Mode Switch -->
+	<Joy_15>M1</Joy_15>
+	<Joy_16>M2</Joy_16>
+	<Joy_17>S1</Joy_17>
+
+	<!-- Silver POV Hat (also registered as buttons 18-21) -->
+	<Joy_18>POV Up</Joy_18>
+	<Joy_19>POV Right</Joy_19>
+	<Joy_20>POV Down</Joy_20>
+	<Joy_21>POV Left</Joy_21>
+
+	<!-- Axes -->
+	<Joy_XAxis>Stick X</Joy_XAxis>
+	<Joy_YAxis>Stick Y</Joy_YAxis>
+	<Joy_RZAxis>Stick Twist</Joy_RZAxis>
+	<Joy_RXAxis>Joy Ministick X</Joy_RXAxis>
+	<Joy_RYAxis>Joy Ministick Y</Joy_RYAxis>
+
+	<!-- Silver POV Hat (POV1) -->
+	<Joy_POV1Up>POV Up</Joy_POV1Up>
+	<Joy_POV1Right>POV Right</Joy_POV1Right>
+	<Joy_POV1Down>POV Down</Joy_POV1Down>
+	<Joy_POV1Left>POV Left</Joy_POV1Left>
+</Root>
