@@ -1,0 +1,100 @@
+<!-- VKB STECS Regular Throttle System MAX (Left) -->
+<!-- (no button substitutions)-->
+<!-- 1. BRK = 5-way -->
+<!-- 2. MB1 = mini-stick -->
+<!-- 3. RADIO = 3-way -->
+<!-- 4. MB2 = 5-way -->
+<!-- 5. OP EXEC = 1 way Button -->
+<!-- 6. OTS = 5-way -->
+<Root>
+	<Joy_RXAxis>LSTECS MB1 [x52prox]</Joy_RXAxis>
+	<Joy_RYAxis>LSTECS MB1 [x52proy]</Joy_RYAxis>
+	<Joy_XAxis>LSTECS Right [xb1htsThr]</Joy_XAxis>
+	<Joy_YAxis>LSTECS Left [xb1htsThr]</Joy_YAxis>
+	<Joy_ZAxis>LSTECS Scoll Z [xb1htsThr]</Joy_ZAxis>
+	<Joy_1>LSTECS SYS [x360Back]</Joy_1>
+	<Joy_2>LSTECS START [ps4Circle]</Joy_2>
+	<Joy_3>LSTECS Mode 1</Joy_3>
+	<Joy_4>LSTECS Mode 2</Joy_4>
+	<Joy_5>LSTECS Mode 3</Joy_5>
+	<Joy_6>LSTECS Mode 4</Joy_6>
+	<Joy_7>LSTECS Mode 5</Joy_7>
+	
+	<Joy_21>LSTECS Back Trig L [x360LBump]</Joy_21>
+	<Joy_22>LSTECS Front Trig L [x360LThumb]</Joy_22>
+	<Joy_23>LSTECS Weapon Select [ps4Circle]</Joy_23>
+	<Joy_24>LSTECS RST</Joy_24>
+	<Joy_25>LSTECS Enc1 [xb1PadU]</Joy_25>
+	<Joy_26>LSTECS Enc1 [xb1PadD]</Joy_26>
+	<Joy_27>LSTECS Enc2 [xb1PadU]</Joy_27>
+	<Joy_28>LSTECS Enc2 [xb1PadD]</Joy_28>
+	<Joy_29>LSTECS Back Trig R [x360RBump]</Joy_29>
+	<Joy_30>LSTECS Front Trig R [x360RThumb]</Joy_30>
+	<Joy_31>LSTECS ENT</Joy_31>
+        <Joy_32>LSTECS OTS</Joy_32>
+	<Joy_33>LSTECS BRK [hts4HatSwitch]</Joy_33>
+	<Joy_34>LSTECS MB1</Joy_34>
+	<Joy_35>LSTECS RADIO</Joy_35>
+	<Joy_36>LSTECS MB2</Joy_36>
+	<Joy_37>LSTECS OP EXEC [x360LThumb]</Joy_37>
+	<Joy_38>LSTECS BRK [ps4PadL]</Joy_38>
+	<Joy_39>LSTECS BRK [ps4PadD]</Joy_39>
+	<Joy_40>LSTECS BRK [ps4PadR]</Joy_40>
+	<Joy_41>LSTECS BRK [ps4PadU]</Joy_41>
+        <Joy_42>LSTECS RADIO [ps4PadD]</Joy_42>
+        <Joy_43>LSTECS RADIO [ps4PadU]</Joy_43>
+        <Joy_44>LSTECS MB2 [ps4PadL]</Joy_44>
+	<Joy_45>LSTECS MB2 [ps4PadR]</Joy_45>
+	<Joy_46>LSTECS MB2 [ps4PadD]</Joy_46>
+	<Joy_47>LSTECS MB2 [ps4PadU]</Joy_47>
+        <Joy_48>LSTECS OTS [ps4PadD]</Joy_48>
+	<Joy_49>LSTECS OTS [ps4PadL]</Joy_49>
+	<Joy_50>LSTECS OTS [ps4PadU]</Joy_50>
+        <Joy_51>LSTECS OTS [ps4PadR]</Joy_51>
+	
+
+        
+        <!-- ATEM -->
+	<Joy_8>ATEM MSE CCW</Joy_8>
+	<Joy_9>ATEM MSE CW</Joy_9>
+	<Joy_10>ATEM SAFE</Joy_10>
+	<Joy_11>ATEM 1</Joy_11>
+	<Joy_12>ATEM 2</Joy_12>
+	<Joy_13>ATEM 3</Joy_13>
+	<Joy_14>ATEM 4</Joy_14>
+	<Joy_15>ATEM ARMED</Joy_15>
+	<Joy_16>ATEM MSE [ps4PadU]</Joy_16>
+	<Joy_17>ATEM MSE [ps4PadD]</Joy_17>
+	<Joy_18>ATEM MSE [ps4PadR]</Joy_18>
+	<Joy_19>ATEM MSE [ps4PadL]</Joy_19>
+	<Joy_20>ATEM MSE PUSH</Joy_20>
+
+
+        <!-- STEM -->
+	<Joy_52>STEM A1</Joy_52>
+	<Joy_53>STEM A2</Joy_53>
+	<Joy_54>STEM C1</Joy_54>
+	<Joy_55>STEM B1</Joy_55>
+	<Joy_56>STEM B2</Joy_56>
+	<Joy_57>STEM B3</Joy_57>
+	<Joy_58>STEM B4</Joy_58>
+	<Joy_59>STEM B5</Joy_59>
+	<Joy_60>STEM SW1 UP</Joy_60>
+	<Joy_61>STEM SW1 PUSH</Joy_61>
+	<Joy_62>STEM SW1 DOWN</Joy_62>
+	<Joy_63>STEM SW2 UP</Joy_63>
+	<Joy_64>STEM SW2 PUSH</Joy_64>
+	<Joy_65>STEM SW2 DOWN</Joy_65>
+	<Joy_66>STEM TGL UP</Joy_66>
+	<Joy_67>STEM TGL DOWN</Joy_67>
+	<Joy_68>STEM EN1 CCW</Joy_68>
+	<Joy_69>STEM EN1 CW</Joy_69>
+	<Joy_70>STEM EN2 CCW</Joy_70>
+	<Joy_71>STEM EN2 CW</Joy_71>
+	<Joy_72>STEM EN1 PUSH</Joy_72>
+	<Joy_73>STEM EN2 PUSH</Joy_73>
+	<Joy_74>STEM LEVER UP</Joy_74>
+	<Joy_75>STEM LEVER DOWN</Joy_75>
+	<!-- TODO add STEM LEVER as analog axis -->
+
+</Root>
