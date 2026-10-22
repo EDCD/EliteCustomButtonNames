@@ -45,6 +45,7 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 | Thrustmaster T.16000M| T16000M.buttonMap |
 | Thrustmaster TWCS| T16000MTHROTTLE.buttonMap |
 | TurtleBeach VelocityOne FlightStick| 10F57055.buttonMap |
+| Virpil Virpil CDT-AEROMAX-R Flightstick| 334444C4.buttonMap |
 | Virpil Universal Control Panel #2| 3344025A.buttonMap |
 | VKB Gladiator NXT EVO Space Combat Grip Premium (Left)| 231D0201.buttonMap |
 | VKB Gladiator NXT EVO Space Combat Grip Premium (Right)| 231D0200.buttonMap |
