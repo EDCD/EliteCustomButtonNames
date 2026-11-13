@@ -1,0 +1,39 @@
+<!-- VKB Gunfighter Modern Combat Edition (Right) -->
+<Root>
+	<Joy_RXAxis>RGF MASTER MODE X</Joy_RXAxis>
+	<Joy_RYAxis>RGF MASTER MODE Y</Joy_RYAxis>
+	<Joy_RZAxis>RGF GATE CONT X</Joy_RZAxis>
+	<Joy_UAxis>RGF GATE CONT Y</Joy_UAxis>
+	<Joy_VAxis>RGF BRAKE</Joy_VAxis>
+	<Joy_XAxis>RGF [x52prox]</Joy_XAxis>
+	<Joy_YAxis>RGF [x52proy]</Joy_YAxis>
+	<Joy_ZAxis>RGF [x52prorz]</Joy_ZAxis>
+	<Joy_POV1Up>RGF MASTER MODE [ps4PadU]</Joy_POV1Up>
+	<Joy_POV1Right>RGF MASTER MODE [ps4PadR]</Joy_POV1Right>
+	<Joy_POV1Down>RGF MASTER MODE [ps4PadD]</Joy_POV1Down>
+	<Joy_POV1Left>RGF MASTER MODE [ps4PadL]</Joy_POV1Left>
+	<Joy_1>RGF Fire 1</Joy_1>
+	<Joy_2>RGF Fire 2</Joy_2>
+	<Joy_3>RGF Flip Trigger</Joy_3>
+	<Joy_4>RGF AP OFF (red)</Joy_4>
+	<Joy_5>RGF LVLNG</Joy_5>
+	<Joy_6>RGF GUN</Joy_6>
+	<Joy_7>RGF (index)</Joy_7>
+	<Joy_8>RGF GATE CONT Click</Joy_8>
+	<Joy_9>RGF RESET Click</Joy_9>
+	<Joy_10>RGF RESET [ps4PadU]</Joy_10>
+	<Joy_11>RGF RESET [ps4PadR]</Joy_11>
+	<Joy_12>RGF RESET [ps4PadD]</Joy_12>
+	<Joy_13>RGF RESET [ps4PadL]</Joy_13>
+	<Joy_14>RGF PC [ps4PadU]</Joy_14>
+	<Joy_15>RGF PC [ps4PadR]</Joy_15>
+	<Joy_16>RGF PC [ps4PadD]</Joy_16>
+	<Joy_17>RGF PC [ps4PadL]</Joy_17>
+	<Joy_18>RGF PC Click</Joy_18>
+	<Joy_19>RGF DC [ps4PadU]</Joy_19>
+	<Joy_20>RGF DC [ps4PadR]</Joy_20>
+	<Joy_21>RGF DC [ps4PadD]</Joy_21>
+	<Joy_22>RGF DC [ps4PadL]</Joy_22>
+	<Joy_23>RGF DC Click</Joy_23>
+	<Joy_24>RGF Flip Trigger Up</Joy_24>
+</Root>
