@@ -1,0 +1,44 @@
+<!-- VKB Gunfighter Space Combat Grip Premium (Left) -->
+<Root>
+	<Joy_RXAxis>LGF Thumbstick X</Joy_RXAxis>
+	<Joy_RYAxis>LGF Thumbstick Y</Joy_RYAxis>
+	<Joy_XAxis>LGF [x52prox]</Joy_XAxis>
+	<Joy_YAxis>LGF [x52proy]</Joy_YAxis>
+	<Joy_ZAxis>LGF [x52prorz]</Joy_ZAxis>
+	<Joy_POV1Up>LGF A1 [ps4PadU]</Joy_POV1Up>
+	<Joy_POV1Right>LGF A1 [ps4PadR]</Joy_POV1Right>
+	<Joy_POV1Down>LGF A1 [ps4PadD]</Joy_POV1Down>
+	<Joy_POV1Left>LGF A1 [ps4PadL]</Joy_POV1Left>
+	<Joy_POV2Up>LGF A4 [ps4PadU]</Joy_POV2Up>
+	<Joy_POV2Right>LGF A4 [ps4PadR]</Joy_POV2Right>
+	<Joy_POV2Down>LGF A4 [ps4PadD]</Joy_POV2Down>
+	<Joy_POV2Left>LGF A4 [ps4PadL]</Joy_POV2Left>
+	<Joy_POV3Up>LGF A3 [ps4PadU]</Joy_POV3Up>
+	<Joy_POV3Right>LGF A3 [ps4PadR]</Joy_POV3Right>
+	<Joy_POV3Down>LGF A3 [ps4PadD]</Joy_POV3Down>
+	<Joy_POV3Left>LGF A3 [ps4PadL]</Joy_POV3Left>
+	<Joy_POV4Up>LGF C1 [ps4PadU]</Joy_POV4Up>
+	<Joy_POV4Right>LGF C1 [ps4PadR]</Joy_POV4Right>
+	<Joy_POV4Down>LGF C1 [ps4PadD]</Joy_POV4Down>
+	<Joy_POV4Left>LGF C1 [ps4PadL]</Joy_POV4Left>
+	<Joy_1>LGF Fire 1</Joy_1>
+	<Joy_2>LGF Fire 2</Joy_2>
+	<Joy_3>LGF A2 (thumb red)</Joy_3>
+	<Joy_4>LGF B1 (right side)</Joy_4>
+	<Joy_5>LGF D1 (pinky)</Joy_5>
+	<Joy_6>LGF A3 [ps4PadU]</Joy_6>
+	<Joy_7>LGF A3 [ps4PadR]</Joy_7>
+	<Joy_8>LGF A3 [ps4PadD]</Joy_8>
+	<Joy_9>LGF A3 [ps4PadL]</Joy_9>
+	<Joy_10>LGF A3 Click</Joy_10>
+	<Joy_11>LGF A4 [ps4PadU]</Joy_11>
+	<Joy_12>LGF A4 [ps4PadR]</Joy_12>
+	<Joy_13>LGF A4 [ps4PadD]</Joy_13>
+	<Joy_14>LGF A4 [ps4PadL]</Joy_14>
+	<Joy_15>LGF A4 Click</Joy_15>
+	<Joy_16>LGF C1 [ps4PadU]</Joy_16>
+	<Joy_17>LGF C1 [ps4PadR]</Joy_17>
+	<Joy_18>LGF C1 [ps4PadD]</Joy_18>
+	<Joy_19>LGF C1 [ps4PadL]</Joy_19>
+	<Joy_20>LGF C1 Click</Joy_20>
+</Root>

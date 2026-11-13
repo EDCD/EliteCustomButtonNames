@@ -53,6 +53,7 @@ At the time of writing the folder includes `Generic.buttonMap`, which has every 
 | VKB Gladiator NXT EVO Space Combat Grip Premium OmniThrottle (Right)| 231D3200.buttonMap |
 | VKB Gladiator NXT EVO Space Combat Grip Premium (Right) + GNX FSM/GA module| 231D0220.buttonMap |
 | VKB Gunfighter Modern Combat Edition (Right) | 231D0125.buttonMap |
+| VKB Gunfighter Space Combat Grip Premium (Left) | 231D0127.buttonMap |
 | VKB Gunfighter Space Combat Grip Premium (Right)| 231D0126.buttonMap |
 | VKB STECS Modern Throttle System Standard| 231D012D.buttonMap |
 | VKB STECS Modern Throttle System MAX| 231D012E.buttonMap |
