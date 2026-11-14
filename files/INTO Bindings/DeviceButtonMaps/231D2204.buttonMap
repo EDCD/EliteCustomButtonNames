@@ -1,0 +1,24 @@
+<!-- VKB SEM -->
+<Root>
+	<Joy_ZAxis>SEM Flaps</Joy_ZAxis>
+	<Joy_1>SEM A1</Joy_1>
+	<Joy_2>SEM A2</Joy_2>
+	<Joy_3>SEM B1</Joy_3>
+	<Joy_4>SEM B2</Joy_4>
+	<Joy_5>SEM B3</Joy_5>
+	<Joy_6>SEM SW1 Up [ps4PadU]</Joy_6>
+	<Joy_7>SEM SW1 Center [xb1htsRudAx]</Joy_7>
+	<Joy_8>SEM SW1 Up [ps4PadD]</Joy_8>
+	<Joy_9>SEM SW1 Up [ps4PadU]</Joy_9>
+	<Joy_10>SEM SW1 Center [xb1htsRudAx]</Joy_10>
+	<Joy_11>SEM SW1 Down [ps4PadD]</Joy_11>
+	<Joy_12>SEM Start [x52prob31]</Joy_12>
+	<Joy_13>SEM MODE 1</Joy_13>
+	<Joy_14>SEM MODE 2</Joy_14>
+	<Joy_15>SEM MODE 3</Joy_15>
+	<Joy_16>SEM MODE 4</Joy_16>
+	<Joy_17>SEM C1</Joy_17>
+	<Joy_22>SEM LNDG GEAR Down</Joy_22>
+	<Joy_23>SEM LNDG GEAR Center</Joy_23>
+	<Joy_24>SEM LNDG GEAR Up</Joy_24>
+</Root>
